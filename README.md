@@ -20,5 +20,3 @@ A short description of the project's creation using Cursor AI can be found [here
 - Combine
 - Async/Await
 - MVVM architecture
-
-A short description of the project's creationcan be found [here](https://docs.google.com/document/d/1alV9O5tULcsHl3VSsBQg6yrEzY_DOHDwiPyzppAnCsI/edit?pli=1&tab=t.0#heading=h.y8x77ncnzmn2)
