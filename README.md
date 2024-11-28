@@ -10,7 +10,7 @@ Access to the tide information requires an API key and the first 100 requests ar
 
 I use  only Composer of Cursor AI, which works with the entire project. 
 
-A short description of the project's creationcan be found [here](https://docs.google.com/document/d/1alV9O5tULcsHl3VSsBQg6yrEzY_DOHDwiPyzppAnCsI/edit?pli=1&tab=t.0#heading=h.y8x77ncnzmn2)
+A short description of the project's creation using Cursor AI can be found [here](https://docs.google.com/document/d/1alV9O5tULcsHl3VSsBQg6yrEzY_DOHDwiPyzppAnCsI/edit?pli=1&tab=t.0#heading=h.y8x77ncnzmn2)
 
 ![](https://github.com/BestKora/Tile-Times/blob/ff4e1c37fb3d45f9bea79404e4d49ebbcf5ee671/Tide%20Times/TideTimes.gif)  
 
