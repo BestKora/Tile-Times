@@ -10,4 +10,4 @@ Access to the tide information requires an API key and the first 100 requests ar
 
 I use  only Composer of Cursor AI, which works with the entire project. 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![] (Tide Times/TideTimes.gif)     (https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
