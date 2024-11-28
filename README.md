@@ -12,7 +12,7 @@ I use  only Composer of Cursor AI, which works with the entire project.
 
 ![](https://github.com/BestKora/Tile-Times/blob/ff4e1c37fb3d45f9bea79404e4d49ebbcf5ee671/Tide%20Times/TideTimes.gif)  
 
-##Technologies used:
+## Technologies used:
 - Swift
 - SwiftUI
 - Combine
